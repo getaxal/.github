@@ -4,7 +4,7 @@
 
 <h1 align="center">  
   <b>
-  Lockbox: streamlined crypto treasury management
+  streamlined crypto treasury management
   </b>
 </h1>
 

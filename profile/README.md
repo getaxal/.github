@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Lockbox.png" />
+  <img src="/profile/Lockbox.png" />
 </p>
 
 <h1 align="center">  

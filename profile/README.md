@@ -4,7 +4,7 @@
 
 <h1 align="center">  
   <b>
-  Lockbox: manage shared funds easier, faster, and safer!
+  Lockbox: streamlined crypto treasury management
   </b>
 </h1>
 

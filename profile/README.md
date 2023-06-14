@@ -4,7 +4,7 @@
 
 <h1 align="center">  
   <b>
-  streamlined crypto treasury management
+  seamless crypto workflows
   </b>
 </h1>
 
@@ -21,18 +21,4 @@
 </p>
 
 ## About
-Lockbox is a one-stop platform to manage your crypto treasury in just a few clicks. We provide an intuitive and customizable web app to interact with a secure and transparent smart contract layer to manage your organization's funds. 
-
-## FAQ
-
-- __Who should use Lockbox?__
-  Lockbox is perfect for any group that needs to manage shared crypto funds! If you are (or represent) a DAO, crypto startup company, investment syndicate, or large institution holding cryptocurrency assets, Lockbox is perfect for you. Please reach out to hello@getlockbox.xyz and we'd love to help you get started.
-  
-- __What do I need to do to use Lockbox?__
-  Deploying a Lockbox is simple. once released, go to the website and click "Deploy New Lockbox." It's really that simple! All it takes is 1 click to get started.
-  
-- __What blockchains does Lockbox support?__
-  Lockbox is built to be fully EVM compatible. We've already done testing on Ethereum, Polygon, Telos, BNB Chain, Klaytn, and Tron.
-  
-- __When is Lockbox launching?__
-  We will be launching in early 2023! Join the waitlist at <a href="https://getlockbox.xyz" target="_blank">getlockbox.xyz</a> to be one of the first ones to know when we launch.
+Lockbox enables organizations to create seamless crypto workflows that transform on and off-chain data into actionable insights. 

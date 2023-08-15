@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/profile/Lockbox.png" />
+  <img src="/profile/AXAL_black.png" />
 </p>
 
 <h1 align="center">  

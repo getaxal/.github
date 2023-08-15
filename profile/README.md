@@ -9,4 +9,4 @@
 </h1>
 
 ## About
-Lockbox enables organizations to create seamless crypto workflows that transform on and off-chain data into actionable insights. 
+AXAL enables organizations to create seamless crypto workflows that transform on and off-chain data into actionable insights. 
